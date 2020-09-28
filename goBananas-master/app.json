@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "goBananas",
+    "slug": "goBananas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/BananasIcon.png",
+    "splash": {
+      "image": "./app/assets/azbananas.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#cfe571"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./app/assets/favicon.png"
+    },
+    "description": ""
+  }
+}
